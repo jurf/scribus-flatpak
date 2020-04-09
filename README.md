@@ -1,3 +1,5 @@
+> NB: This package is **unmaintained**. You can now find Scribus on [Flathub](https://flathub.org/apps/details/net.scribus.Scribus).
+
 # Scribus Flatpak
 
 [![pipeline status](https://gitlab.com/jurf/scribus-flatpak-repo/badges/master/pipeline.svg)](https://gitlab.com/jurf/scribus-flatpak-repo/commits/master)
